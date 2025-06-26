@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         X Debug - Hide Indian, Arabic, Japanese, and Thai Language Posts
+// @name         JeetDelete X.com - Hide Indian, Arabic, Japanese, and Thai Language Posts
 // @namespace    http://tampermonkey.net/
 // @version      1.4.3
 // @description  Debugs and hides posts on X written in Hindi, other Indian languages, Arabic, Japanese, or Thai
-// @author       You
+// @author       xechostormx, hearing_echoes
 // @match        https://x.com/*
 // @match        https://www.x.com/*
 // @match        https://*.x.com/* // Covers regional subdomains
